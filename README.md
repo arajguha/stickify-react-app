@@ -1,4 +1,4 @@
 # stickify-react-app
 ##### Created with CodeSandbox
 ###### react , react hooks, material-ui
-###### hosted using netlify: https://stickify.netlify.app/
+###### hosted using netlify: https://stickify-old.netlify.app/
